@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6565A803-A59F-45C0-9368-9762E0202A97}|Default">
+  <MonoDevelop.Ide.ItemProperties.notisample.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4F0867D6-68E0-405C-833A-16C456B178D2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="notisample/MainPage.xaml">
+    <Files>
+      <File FileName="notisample/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="notisample/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="notisample" expanded="True">
+            <Node name="notisample" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="notisample.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>notisample.Android/notisample.Android.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

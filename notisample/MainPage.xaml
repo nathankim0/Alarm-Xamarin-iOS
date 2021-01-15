@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="notisample.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <StackLayout>
+        <Frame
+            Padding="24"
+            BackgroundColor="#2196F3"
+            CornerRadius="0">
+            <Label
+                FontSize="36"
+                HorizontalTextAlignment="Center"
+                Text="Xamarin iOS 알람 설정 샘플"
+                TextColor="White" />
+        </Frame>
+        <Label Text="알람 시간 설정" />
+        <TimePicker x:Name="_timePicker" Format="T" />
+        <StackLayout Orientation="Horizontal">
+            <Label Text="알람 시작" />
+            <Switch
+                x:Name="_switch"
+                HorizontalOptions="EndAndExpand"
+                Toggled="OnSwitchToggled" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

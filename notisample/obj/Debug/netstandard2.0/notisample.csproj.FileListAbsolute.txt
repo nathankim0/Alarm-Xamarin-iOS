@@ -1,0 +1,14 @@
+/Users/jinyeob/Projects/notisample/notisample/bin/Debug/netstandard2.0/notisample.deps.json
+/Users/jinyeob/Projects/notisample/notisample/bin/Debug/netstandard2.0/notisample.dll
+/Users/jinyeob/Projects/notisample/notisample/bin/Debug/netstandard2.0/ref/notisample.dll
+/Users/jinyeob/Projects/notisample/notisample/bin/Debug/netstandard2.0/notisample.pdb
+/Users/jinyeob/Projects/notisample/notisample/obj/Debug/netstandard2.0/notisample.csprojAssemblyReference.cache
+/Users/jinyeob/Projects/notisample/notisample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jinyeob/Projects/notisample/notisample/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jinyeob/Projects/notisample/notisample/obj/Debug/netstandard2.0/notisample.AssemblyInfoInputs.cache
+/Users/jinyeob/Projects/notisample/notisample/obj/Debug/netstandard2.0/notisample.AssemblyInfo.cs
+/Users/jinyeob/Projects/notisample/notisample/obj/Debug/netstandard2.0/notisample.csproj.CoreCompileInputs.cache
+/Users/jinyeob/Projects/notisample/notisample/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jinyeob/Projects/notisample/notisample/obj/Debug/netstandard2.0/notisample.dll
+/Users/jinyeob/Projects/notisample/notisample/obj/Debug/netstandard2.0/ref/notisample.dll
+/Users/jinyeob/Projects/notisample/notisample/obj/Debug/netstandard2.0/notisample.pdb

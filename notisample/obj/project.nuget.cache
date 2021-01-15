@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ei217TxjWuzq1Y5ngZDyMOUe2cXKtD8RLUhL7Z62NZAY82M5FsSg7gw61zYkXEAbsWf0NRFr3LMu6kYkNaCdw==",
+  "success": true,
+  "projectFilePath": "/Users/jinyeob/Projects/notisample/notisample/notisample.csproj",
+  "expectedPackageFiles": [
+    "/Users/jinyeob/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/jinyeob/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/jinyeob/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/jinyeob/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/jinyeob/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
